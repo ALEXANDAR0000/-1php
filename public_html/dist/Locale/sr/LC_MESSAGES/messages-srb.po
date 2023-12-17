@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-10-13 23:08+0200\n"
+"PO-Revision-Date: 2021-10-13 23:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sr@latin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../../../../..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: backend/conf/config.php:39
+msgid "Example"
+msgstr "Primer"
+
+#: public_html/api/actions/actionAddKorisnika.php:21
+#: public_html/api/actions/actionAddKorisnika.php:32
+msgid "Dodavanje korisnika"
+msgstr "Dodavanje korisnika"
+
+#: public_html/api/actions/actionAddKorisnika.php:22
+msgid "Korisnik je uspešno dodat"
+msgstr "Korisnik je uspešno dodat"
+
+#: public_html/api/actions/actionAddKorisnika.php:31
+msgid "Dodavanje nije uspelo"
+msgstr "Dodavanje nije uspelo"
+
+#: public_html/api/actions/actionDeleteKorisnika.php:17
+#: public_html/api/actions/actionDeleteKorisnika.php:27
+msgid "Brisanje korisnika"
+msgstr "Brisanje korisnika"
+
+#: public_html/api/actions/actionDeleteKorisnika.php:18
+msgid "Korisnik je uspješno izbrisan"
+msgstr "Korisnik je uspješno izbrisan"
+
+#: public_html/api/actions/actionDeleteKorisnika.php:26
+msgid "Brisanje nije uspjelo"
+msgstr "Brisanje nije uspjelo"
+
+#: public_html/api/actions/actionLogin.php:56
+msgid "Neuspešna prijava"
+msgstr "Neuspešna prijava"
+
+#: public_html/api/actions/actionUpdateKorisnika.php:29
+#: public_html/api/actions/actionUpdateKorisnika.php:40
+msgid "Izmjena korisnika"
+msgstr "Izmjena korisnika"
+
+#: public_html/api/actions/actionUpdateKorisnika.php:30
+msgid "Korisnik je uspešno izmenjen"
+msgstr "Korisnik je uspešno izmenjen"
+
+#: public_html/api/actions/actionUpdateKorisnika.php:39
+msgid "Izmjena nije uspela"
+msgstr "Izmjena nije uspela"
+
+#: public_html/dist/bower_components/jquery-ui/jquery-ui.min.js:8
+#: public_html/plugins/jQueryUI/jquery-ui.min.js:8
+msgid "'"
+msgstr "'"
+
+#: public_html/index.php:22 public_html/index.php:123
+msgid "Dodaj"
+msgstr "Dodaj"
+
+#: public_html/index.php:23
+msgid "Obriši"
+msgstr "Obriši"
+
+#: public_html/index.php:24 public_html/index.php:186
+msgid "Izmeni"
+msgstr "Izmeni"
+
+#: public_html/index.php:26
+msgid "Odjava"
+msgstr "Odjava"
+
+#: public_html/index.php:28 public_html/login.php:78
+msgid "Engleski"
+msgstr "Engleski"
+
+#: public_html/index.php:29 public_html/login.php:79
+msgid "Srpski"
+msgstr "Srpski"
+
+#: public_html/index.php:37
+msgid "Red. br."
+msgstr "Red. br."
+
+#: public_html/index.php:38
+msgid "ID"
+msgstr "ID"
+
+#: public_html/index.php:77
+msgid "Dodaj korisnika"
+msgstr "Dodaj korisnika"
+
+#: public_html/index.php:84 public_html/index.php:148
+msgid "JMBG"
+msgstr "JMBG"
+
+#: public_html/index.php:85 public_html/index.php:149
+msgid "Unesite JMBG"
+msgstr "Unesite JMBG"
+
+#: public_html/index.php:91 public_html/index.php:155
+msgid "Ime"
+msgstr "Ime"
+
+#: public_html/index.php:92 public_html/index.php:156
+msgid "Unesite ime korisnika"
+msgstr "Unesite ime korisnika"
+
+#: public_html/index.php:98 public_html/index.php:162
+msgid "Prezime"
+msgstr "Prezime"
+
+#: public_html/index.php:99 public_html/index.php:163
+msgid "Unesite prezime korisnika"
+msgstr "Unesite prezime korisnika"
+
+#: public_html/index.php:105 public_html/index.php:169
+msgid "Adresa"
+msgstr "Adresa"
+
+#: public_html/index.php:106 public_html/index.php:170
+msgid "Unesite adresu korisnika"
+msgstr "Unesite adresu korisnika"
+
+#: public_html/index.php:113 public_html/index.php:177
+msgid "Datum rodjenja"
+msgstr "Datum rodjenja"
+
+#: public_html/index.php:114 public_html/index.php:178
+msgid "Unesite datum rodjenja korisnika"
+msgstr "Unesite datum rodjenja korisnika"
+
+#: public_html/index.php:122 public_html/index.php:185
+msgid "Odustani"
+msgstr "Odustani"
+
+#: public_html/index.php:141
+msgid "Izmeni korisnika"
+msgstr "Izmeni korisnika"
+
+#: public_html/index.php:268
+msgid "Pretraga:"
+msgstr "Pretraga:"
+
+#: public_html/login.php:33
+msgid "Prijava korisnika"
+msgstr "Prijava korisnika"
+
+#: public_html/login.php:36
+msgid "Korisničko ime"
+msgstr "Korisničko ime"
+
+#: public_html/login.php:40
+msgid "Lozinka"
+msgstr "Lozinka"
+
+#: public_html/login.php:65
+msgid "Prijava"
+msgstr "Prijava"
+
+#~ msgid "Serbian"
+#~ msgstr "Serbian"
+
+#~ msgid "Latinica"
+#~ msgstr "Latinica"
+
+#~ msgid "Ćirilica"
+#~ msgstr "Ćirilica"

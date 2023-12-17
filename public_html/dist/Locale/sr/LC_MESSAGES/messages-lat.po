@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-10-13 20:19+0200\n"
+"PO-Revision-Date: 2021-10-13 20:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../../../../..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.css\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: backend/conf/config.php:39
+msgid "Example"
+msgstr "Primer"
+
+#: public_html/api/actions/actionAddKorisnika.php:21
+#: public_html/api/actions/actionAddKorisnika.php:32
+#, fuzzy
+#| msgid "Prijava korisnika"
+msgid "Dodavanje korisnika"
+msgstr "Prijava korisnika"
+
+#: public_html/api/actions/actionAddKorisnika.php:22
+#, fuzzy
+#| msgid "Zahtev je uspešno dodat"
+msgid "Korisnik je uspešno dodat"
+msgstr "Zahtev je uspešno dodat"
+
+#: public_html/api/actions/actionAddKorisnika.php:31
+msgid "Dodavanje nije uspelo"
+msgstr "Dodavanje nije uspelo"
+
+#: public_html/api/actions/actionDeleteKorisnika.php:17
+#: public_html/api/actions/actionDeleteKorisnika.php:27
+#, fuzzy
+#| msgid "Prijava korisnika"
+msgid "Brisanje korisnika"
+msgstr "Prijava korisnika"
+
+#: public_html/api/actions/actionDeleteKorisnika.php:18
+#, fuzzy
+#| msgid "Zahtev je uspešno izbrisan"
+msgid "Korisnik je uspješno izbrisan"
+msgstr "Zahtev je uspešno izbrisan"
+
+#: public_html/api/actions/actionDeleteKorisnika.php:26
+#, fuzzy
+#| msgid "Brisanje nije uspelo"
+msgid "Brisanje nije uspjelo"
+msgstr "Brisanje nije uspelo"
+
+#: public_html/api/actions/actionLogin.php:56
+msgid "Neuspešna prijava"
+msgstr "Neuspešna prijava"
+
+#: public_html/api/actions/actionUpdateKorisnika.php:29
+#: public_html/api/actions/actionUpdateKorisnika.php:40
+#, fuzzy
+#| msgid "Prijava korisnika"
+msgid "Izmjena korisnika"
+msgstr "Prijava korisnika"
+
+#: public_html/api/actions/actionUpdateKorisnika.php:30
+#, fuzzy
+#| msgid "Zapis je uspešno izmenjen"
+msgid "Korisnik je uspešno izmenjen"
+msgstr "Zapis je uspešno izmenjen"
+
+#: public_html/api/actions/actionUpdateKorisnika.php:39
+#, fuzzy
+#| msgid "Izmena nije uspela"
+msgid "Izmjena nije uspela"
+msgstr "Izmena nije uspela"
+
+#: public_html/index.php:22 public_html/index.php:123
+msgid "Dodaj"
+msgstr "Dodaj"
+
+#: public_html/index.php:23
+msgid "Obriši"
+msgstr "Obriši"
+
+#: public_html/index.php:24 public_html/index.php:186
+msgid "Izmeni"
+msgstr "Izmeni"
+
+#: public_html/index.php:26
+msgid "Odjava"
+msgstr "Odjava"
+
+#: public_html/index.php:28 public_html/login.php:78
+msgid "Latinica"
+msgstr "Latinica"
+
+#: public_html/index.php:29 public_html/login.php:79
+msgid "Ćirilica"
+msgstr "Ćirilica"
+
+#: public_html/index.php:37
+msgid "Red. br."
+msgstr "Red. br."
+
+#: public_html/index.php:38
+msgid "ID"
+msgstr "ID"
+
+#: public_html/index.php:77
+#, fuzzy
+#| msgid "Prijava korisnika"
+msgid "Dodaj korisnika"
+msgstr "Prijava korisnika"
+
+#: public_html/index.php:84 public_html/index.php:148
+msgid "JMBG"
+msgstr "JMBG"
+
+#: public_html/index.php:85 public_html/index.php:149
+msgid "Unesite JMBG"
+msgstr "Unesite JMBG"
+
+#: public_html/index.php:91 public_html/index.php:155
+msgid "Ime"
+msgstr "Ime"
+
+#: public_html/index.php:92 public_html/index.php:156
+msgid "Unesite ime korisnika"
+msgstr "Unesite ime korisnika"
+
+#: public_html/index.php:98 public_html/index.php:162
+msgid "Prezime"
+msgstr "Prezime"
+
+#: public_html/index.php:99 public_html/index.php:163
+msgid "Unesite prezime korisnika"
+msgstr "Unesite prezime korisnika"
+
+#: public_html/index.php:105 public_html/index.php:169
+msgid "Adresa"
+msgstr "Adresa"
+
+#: public_html/index.php:106 public_html/index.php:170
+#, fuzzy
+#| msgid "Unesite ime korisnika"
+msgid "Unesite adresu korisnika"
+msgstr "Unesite ime korisnika"
+
+#: public_html/index.php:113 public_html/index.php:177
+#, fuzzy
+#| msgid "Datum rešenja"
+msgid "Datum rodjenja"
+msgstr "Datum rešenja"
+
+#: public_html/index.php:114 public_html/index.php:178
+#, fuzzy
+#| msgid "Unesite datum izdavanja LK korisnika"
+msgid "Unesite datum rodjenja korisnika"
+msgstr "Unesite datum izdavanja LK korisnika"
+
+#: public_html/index.php:122 public_html/index.php:185
+msgid "Odustani"
+msgstr "Odustani"
+
+#: public_html/index.php:141
+#, fuzzy
+#| msgid "Interni korisnici"
+msgid "Izmeni korisnika"
+msgstr "Interni korisnici"
+
+#: public_html/login.php:33
+msgid "Prijava korisnika"
+msgstr "Prijava korisnika"
+
+#: public_html/login.php:36
+msgid "Korisničko ime"
+msgstr "Korisničko ime"
+
+#: public_html/login.php:40
+msgid "Lozinka"
+msgstr "Lozinka"
+
+#: public_html/login.php:65
+msgid "Prijava"
+msgstr "Prijava"
+
+#~ msgid "Restitucija"
+#~ msgstr "Restitucija"
+
+#~ msgid "TEST"
+#~ msgstr "TEST"
+
+#~ msgid "Dodavanje zahteva"
+#~ msgstr "Dodavanje zahteva"
+
+#~ msgid "Brisanje zahteva"
+#~ msgstr "Brisanje zahteva"
+
+#~ msgid "Izmena zapisa"
+#~ msgstr "Izmena zapisa"
+
+#~ msgid "Dobavljanje nije uspelo"
+#~ msgstr "Dobavljanje nije uspelo"
+
+#~ msgid "Datum za filter"
+#~ msgstr "Datum za filter"
+
+#~ msgid "Skeniran dokument"
+#~ msgstr "Skeniran dokument"
+
+#~ msgid "Sadržaj foldera"
+#~ msgstr "Sadržaj foldera"
+
+#~| msgid "Dobavljanje nije uspelo"
+#~ msgid "Dobavljanje sadržaja nije uspelo"
+#~ msgstr "Dobavljanje sadržaja nije uspelo"
+
+#~ msgid "Zahtevi"
+#~ msgstr "Zahtevi"
+
+#~ msgid "Pomoć"
+#~ msgstr "Pomoć"
+
+#~ msgid "Verzija"
+#~ msgstr "Verzija"
+
+#~ msgid "Ministarstvo finansija"
+#~ msgstr "Ministarstvo finansija"
+
+#~ msgid "Sva prava zadržana"
+#~ msgstr "Sva prava zadržana"
+
+#~ msgid "Početna"
+#~ msgstr "Početna"
+
+#~ msgid "Kontrolna tabla"
+#~ msgstr "Kontrolna tabla"
+
+#~ msgid "Pregeld 1"
+#~ msgstr "Pregeld 1"
+
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgid "Broj zahteva"
+#~ msgstr "Broj zahteva"
+
+#~ msgid "Datum prijema"
+#~ msgstr "Datum prijema"
+
+#~ msgid "Broj rešenja"
+#~ msgstr "Broj rešenja"
+
+#~ msgid "Zaključak"
+#~ msgstr "Zaključak"
+
+#~ msgid "Broj LK"
+#~ msgstr "Broj LK"
+
+#~ msgid "Telefon"
+#~ msgstr "Telefon"
+
+#~ msgid "Mesto"
+#~ msgstr "Mesto"
+
+#~ msgid "Opština"
+#~ msgstr "Opština"
+
+#~ msgid "PTT broj"
+#~ msgstr "PTT broj"
+
+#~ msgid "Iznos obeštećenja"
+#~ msgstr "Iznos obeštećenja"
+
+#~ msgid "Iznos akontacije"
+#~ msgstr "Iznos akontacije"
+
+#~ msgid "Iznos obeštećenja u obveznicama"
+#~ msgstr "Iznos obeštećenja u obveznicama"
+
+#~ msgid "Broj računa RSD"
+#~ msgstr "Broj računa RSD"
+
+#~ msgid "Banka RSD"
+#~ msgstr "Banka RSD"
+
+#~ msgid "Broj računa EUR"
+#~ msgstr "Broj računa EUR"
+
+#~ msgid "Banka EUR"
+#~ msgstr "Banka EUR"
+
+#~ msgid "Broj računa HOV"
+#~ msgstr "Broj računa HOV"
+
+#~ msgid "Pravosnažnost"
+#~ msgstr "Pravosnažnost"
+
+#~ msgid "Status zahteva"
+#~ msgstr "Status zahteva"
+
+#~ msgid "Zatvori"
+#~ msgstr "Zatvori"
+
+#~ msgid "Sačuvaj izmene"
+#~ msgstr "Sačuvaj izmene"
+
+#~ msgid "Dodaj zahtev"
+#~ msgstr "Dodaj zahtev"
+
+#~ msgid "Datum izdavanja LK"
+#~ msgstr "Datum izdavanja LK"
+
+#~ msgid "LK Važi do"
+#~ msgstr "LK Važi do"
+
+#~ msgid "Unesite do kada važi LK"
+#~ msgstr "Unesite do kada važi LK"
+
+#~ msgid "Broj lične karte"
+#~ msgstr "Broj lične karte"
+
+#~ msgid "Unesite broj lične karte korisnika"
+#~ msgstr "Unesite broj lične karte korisnika"
+
+#~ msgid "Dokument izdaje"
+#~ msgstr "Dokument izdaje"
+
+#~ msgid "Unesite ko je izdao dokument"
+#~ msgstr "Unesite ko je izdao dokument"
+
+#~ msgid "Prednja strana LK"
+#~ msgstr "Prednja strana LK"
+
+#~ msgid "Unesite prednju stranu LK"
+#~ msgstr "Unesite prednju stranu LK"
+
+#~ msgid "Izmeni zahtev"
+#~ msgstr "Izmeni zahtev"
+
+#~ msgid "Danas"
+#~ msgstr "Danas"
+
+#~ msgid "Juče"
+#~ msgstr "Juče"
+
+#~ msgid "Poslednjih 7 dana"
+#~ msgstr "Poslednjih 7 dana"
+
+#~ msgid "Poslednjih 30 dana"
+#~ msgstr "Poslednjih 30 dana"
+
+#~ msgid "Tekući mesec"
+#~ msgstr "Tekući mesec"
+
+#~ msgid "Prethodni mesec"
+#~ msgstr "Prethodni mesec"
+
+#~ msgid "Tekuća godina"
+#~ msgstr "Tekuća godina"
+
+#~ msgid "Prethodna godina"
+#~ msgstr "Prethodna godina"
+
+#~ msgid "Sve"
+#~ msgstr "Sve"
+
+#~ msgid "Potvrda"
+#~ msgstr "Potvrda"
+
+#~ msgid "Brisanje"
+#~ msgstr "Brisanje"
+
+#~ msgid "Od"
+#~ msgstr "Od"
+
+#~ msgid "Do"
+#~ msgstr "Do"
+
+#~ msgid "Željeni period"
+#~ msgstr "Željeni period"
+
+#~ msgid "Ned"
+#~ msgstr "Ned"
+
+#~ msgid "Pon"
+#~ msgstr "Pon"
+
+#~ msgid "Uto"
+#~ msgstr "Uto"
+
+#~ msgid "Sre"
+#~ msgstr "Sre"
+
+#~ msgid "Čet"
+#~ msgstr "Čet"
+
+#~ msgid "Pet"
+#~ msgstr "Pet"
+
+#~ msgid "Sub"
+#~ msgstr "Sub"
+
+#~ msgid "Januar"
+#~ msgstr "Januar"
+
+#~ msgid "Februar"
+#~ msgstr "Februar"
+
+#~ msgid "Mart"
+#~ msgstr "Mart"
+
+#~ msgid "April"
+#~ msgstr "April"
+
+#~ msgid "Maj"
+#~ msgstr "Maj"
+
+#~ msgid "Jun"
+#~ msgstr "Jun"
+
+#~ msgid "Jul"
+#~ msgstr "Jul"
+
+#~ msgid "August"
+#~ msgstr "August"
+
+#~ msgid "Septembar"
+#~ msgstr "Septembar"
+
+#~ msgid "Oktobar"
+#~ msgstr "Oktobar"
+
+#~ msgid "Novembar"
+#~ msgstr "Novembar"
+
+#~ msgid "Decembar"
+#~ msgstr "Decembar"
+
+#~ msgid "Učitavanje podataka je u toku..."
+#~ msgstr "Učitavanje podataka je u toku..."
+
+#~ msgid "Filtrirano od ukupno _MAX_ elemenata"
+#~ msgstr "Filtrirano od ukupno _MAX_ elemenata"
+
+#~ msgid "Nije pronađen nijedan rezultat"
+#~ msgstr "Nije pronađen nijedan rezultat"
+
+#~ msgid "Prikaži _MENU_"
+#~ msgstr "Prikaži _MENU_"
+
+#~ msgid "Prva"
+#~ msgstr "Prva"
+
+#~ msgid "Prethodna"
+#~ msgstr "Prethodna"
+
+#~ msgid "Sledeća"
+#~ msgstr "Sledeća"
+
+#~ msgid "Poslednja"
+#~ msgstr "Poslednja"
+
+#~ msgid "Pretraga:"
+#~ msgstr "Pretraga:"
+
+#~ msgid "Prikaz _START_ do _END_ od _TOTAL_ zahteva"
+#~ msgstr "Prikaz _START_ do _END_ od _TOTAL_ zahteva"
+
+#~ msgid "Eksterni korisnici"
+#~ msgstr "Eksterni korisnici"
